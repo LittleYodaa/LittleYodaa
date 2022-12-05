@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Patryk Kawula</h1>
 <h3 align="center">A passionate backend developer from Poland</h3>
-<img align="right" alt="Coding" width="400" src="https://medium.com/@albertcavalcante/how-to-reach-developer-experience-supreme-level-part-two-suffering-because-of-bad-dx-da4e505b26f2">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/640/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 - 🔭 I’m currently working on [Car Rental](https://github.com/LittleYodaa/LittleYodaa)
 
