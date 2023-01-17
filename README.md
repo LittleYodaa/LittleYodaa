@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring and Docker**
 
-- 📫 How to reach me **patrykkawula1@gmail.com**
+- 📫 How to reach me **patryk.kawula1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
