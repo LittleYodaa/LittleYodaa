@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Poland</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/640/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
-- 🔭 I’m currently working on [Car Rental](https://github.com/LittleYodaa/car-rental)
+- 🔭 I’m currently working on [AutoCare](https://github.com/LittleYodaa/AutoCare)
 
 - 🌱 I’m currently learning **Spring and Docker**
 
